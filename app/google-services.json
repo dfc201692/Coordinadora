@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1043013159389",
+    "firebase_url": "https://candidato-david-ferney-default-rtdb.firebaseio.com",
+    "project_id": "candidato-david-ferney",
+    "storage_bucket": "candidato-david-ferney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043013159389:android:7774bc7d341d8beb52ce34",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_coordinadora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzElSYVPoPaOSs2Hpq3rT6ikmCNM2zQUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
